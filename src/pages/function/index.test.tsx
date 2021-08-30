@@ -1,4 +1,3 @@
-
 import { render, fireEvent, waitFor, testA11y } from '@alita/test'
 import React from 'react'
 import Page from './index'

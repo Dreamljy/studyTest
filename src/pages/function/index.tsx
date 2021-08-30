@@ -1,10 +1,8 @@
-
 import React, { FC } from 'react';
 
 interface FunctionPageProps {
   onFinish: any;
 }
-
 const Function: FC<FunctionPageProps> = ({ onFinish }) => {
   const [str, setStr] = React.useState("")
   return (

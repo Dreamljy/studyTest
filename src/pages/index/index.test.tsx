@@ -1,4 +1,3 @@
-// 导入render方法
 import { render } from '@alita/test'
 import React from 'react'
 import Page from './index'
